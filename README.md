@@ -1,6 +1,25 @@
 # Note-taker-express
+building a note taker app.
 
+## Tech used
+* html
+* css 
+* express.js
+* node.js
 
+## Install
+you will need to install express, path and uuid
+
+```
+npm i path
+```
+```
+npm uuid
+```
+and last but not least
+```
+npm express
+```
 
 ## User Story
 
@@ -29,3 +48,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+## ScreenShots
+![landing page screenshot](https://github.com/ScottLRay/Note-taker-express/blob/main/public/assets/img/landing-page-screenshot.png)
+
+![note taker page](https://github.com/ScottLRay/Note-taker-express/blob/main/public/assets/img/note-taker-page-screenshot.png)
