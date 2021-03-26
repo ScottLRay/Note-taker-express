@@ -27,9 +27,6 @@ app.get("/notes", function (req, res) {
 //Api routes
 app.get("/api/notes", function (req, res) {
   //retrieve all notes and res.json them back to the front end
-  // fs.readFile("/./db/db.json", "utf8", function (err, data) {
-  //   res.json(JSON.parse(data));
-  // });
   res.json(data)
 });
 
