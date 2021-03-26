@@ -14,11 +14,11 @@ you will need to install express, path and uuid
 npm i path
 ```
 ```
-npm uuid
+npm i uuid
 ```
 and last but not least
 ```
-npm express
+npm i express
 ```
 
 ## User Story
