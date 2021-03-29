@@ -52,3 +52,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![landing page screenshot](https://github.com/ScottLRay/Note-taker-express/blob/main/public/assets/img/landing-page-screenshot.png)
 
 ![note taker page](https://github.com/ScottLRay/Note-taker-express/blob/main/public/assets/img/note-taker-page-screenshot.png)
+
+## deployed link
+https://note-taker-express-sr.herokuapp.com/
